@@ -1,2 +1,2 @@
-# hell-world-
+# daily challenge
 daily challenge 1
